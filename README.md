@@ -100,6 +100,12 @@ TODO: 到时候可以把csdn等自己的其他链接加上去
         <br />基于React的校园智能巴士控制系统
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Savo-Shen/Party-Member-Management-System">
+        <img src="https://img.shields.io/badge/Vue.Js-696969?style=flat-square&logo=vuedotjs&logoColor=339933"/>
+        <br />学生党员评价量化考核系统，图片上传、导出Excel等特点。
+      </a>
+    </td>
   </tr>
 </table>
 
