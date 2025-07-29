@@ -30,6 +30,11 @@ TODO: 到时候可以把csdn等自己的其他链接加上去
   <a href="mailto:savo_shen@qq.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="https://github.com/Savo-Shen"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
   <br/>  
+  <a href="https://blog.csdn.net/qq_44625137?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/csdn-ffffff?style=for-the-badge&logo=csdn&logoColor=e34d2c"/></a>
+  <a href="https://juejin.cn/user/1322079456069548"><img src="https://img.shields.io/badge/掘金-ffffff?style=for-the-badge&logo=juejin&logoColor=007FFF"/></a>
+  <a href="https://www.zhihu.com/people/chen-yi-fan-81-3"><img src="https://img.shields.io/badge/知乎-ffffff?style=for-the-badge&logo=zhihu&logoColor=0084FF"/></a>
+  <a href="https://www.xiaohongshu.com/user/profile/59abfaff5e87e7365d12de82"><img src="https://img.shields.io/badge/小红书-ffffff?style=for-the-badge&logo=xiaohongshu&logoColor=FF2442"/></a>
+  <br/>
   
 </p>
 
@@ -43,7 +48,7 @@ TODO: 到时候可以把csdn等自己的其他链接加上去
 > 沈逸帆 - 不会打球的程序员不是好吉他手 🙄
 
 - 🔭 正在尝试将所学知识通过开发运用到实践中
-- 🚀 准备将计算机视觉模型应用到iOS上
+- 🚀 准备深度学习开发iOS相关
 - 🌱 是个INTJ射手座的计算机学生
 - 👬 寻找志同道合的好厚米
 - 🎯 目标：动手做点有意义的事
