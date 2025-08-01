@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/I'm-Computer_Enthusiast-BE2EDD)
 ![](https://img.shields.io/badge/Also-Apple_Fans-20B2AA)
 
-<!--
-TODO: 到时候可以把csdn等自己的其他链接加上去
--->
-
 <p>
 
   <a href="https://shenyifan.home.blog"><img src="https://img.shields.io/badge/个人网站-ffffff?style=for-the-badge&logo=sitecore&logoColor=black"/></a>
@@ -48,7 +44,7 @@ TODO: 到时候可以把csdn等自己的其他链接加上去
 > 沈逸帆 - 不会打球的程序员不是好吉他手 🙄
 
 - 🔭 正在尝试将所学知识通过开发运用到实践中
-- 🚀 准备深度学习开发iOS相关
+- 🚀 准备深入了解AI相关的应用
 - 🌱 是个INTJ射手座的计算机学生
 - 👬 寻找志同道合的好厚米
 - 🎯 目标：动手做点有意义的事
@@ -73,9 +69,9 @@ TODO: 到时候可以把csdn等自己的其他链接加上去
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📱 移动开发 | Mobile Develop
-![iOS](https://img.shields.io/badge/iOS-F5F5F7?style=for-the-badge&logo=iOS&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-333?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-092A39?style=for-the-badge&logo=android&logoColor=C6FF00)
-![Swift](https://img.shields.io/badge/Swift-252525?style=for-the-badge&logo=swift&logoColor=ED4736)
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=54C2F5)
 
 ### 🎮 游戏开发 | Game Develop
@@ -90,6 +86,18 @@ TODO: 到时候可以把csdn等自己的其他链接加上去
 
 ## 🚀 重点项目 | Featured Projects
 
+### 🧑‍💻 综合项目开发
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Savo-Shen/Animal-Recognition">
+        <img src="https://img.shields.io/badge/Swift-F5F5F7?style=flat-square&logo=swift&logoColor=F05138"/>
+        <br />Reverse回溯
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### 🤖 Web实践开发项目
 <table>
   <tr>
@@ -99,12 +107,12 @@ TODO: 到时候可以把csdn等自己的其他链接加上去
         <br />School Mail校函，基于Vue + Django的高校年级综合平台
       </a>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://github.com/Savo-Shen/cool-car-frontend">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <br />基于React的校园智能巴士控制系统
       </a>
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://github.com/Savo-Shen/Party-Member-Management-System">
         <img src="https://img.shields.io/badge/Vue.Js-696969?style=flat-square&logo=vuedotjs&logoColor=339933"/>
@@ -121,6 +129,12 @@ TODO: 到时候可以把csdn等自己的其他链接加上去
       <a href="https://github.com/Savo-Shen/Animal-Recognition">
         <img src="https://img.shields.io/badge/iOS-F5F5F7?style=flat-square&logo=ios&logoColor=black"/>
         <br />基于Yolo的原生iOS动物识别软件
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Savo-Shen/cool-car-frontend">
+        <img src="https://img.shields.io/badge/YOLO-F5F5F7?style=flat-square&logo=yolo&logoColor=111F68"/>
+        <br />基于React的校园智能巴士控制系统
       </a>
     </td>
   </tr>
