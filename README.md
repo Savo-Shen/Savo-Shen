@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <a href="https://juejin.cn/user/1322079456069548"><img src="https://img.shields.io/badge/掘金-ffffff?style=for-the-badge&logo=juejin&logoColor=007FFF"/></a>
   <a href="https://www.zhihu.com/people/chen-yi-fan-81-3"><img src="https://img.shields.io/badge/知乎-ffffff?style=for-the-badge&logo=zhihu&logoColor=0084FF"/></a>
   <a href="https://www.xiaohongshu.com/user/profile/59abfaff5e87e7365d12de82"><img src="https://img.shields.io/badge/小红书-ffffff?style=for-the-badge&logo=xiaohongshu&logoColor=FF2442"/></a>
+  <a href="https://space.bilibili.com/404122334"><img src="https://img.shields.io/badge/bilibili-ffffff?style=for-the-badge&logo=bilibili&logoColor=00A1D6"/></a>
   <br/>
   
 </p>
