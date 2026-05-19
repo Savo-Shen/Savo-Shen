@@ -96,6 +96,12 @@ Here are some ideas to get you started:
         <br />Reverse回溯
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Savo-Shen/Veite-Warehouse-System">
+        <img src="https://img.shields.io/badge/SpringBoot-20232A?style=flat-square&logo=spring-boot&logoColor=6DB33F"/>
+        <br />威特仓库管理系统
+      </a>
+    </td>
   </tr>
 </table>
 
