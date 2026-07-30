@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 <p>
 
-  <a href="https://shenyifan.home.blog"><img src="https://img.shields.io/badge/个人网站-ffffff?style=for-the-badge&logo=sitecore&logoColor=black"/></a>
+  <a href="https://www.savo-shen.com"><img src="https://img.shields.io/badge/个人网站-ffffff?style=for-the-badge&logo=sitecore&logoColor=black"/></a>
+  <a href="https://shenyifan.home.blog"><img src="https://img.shields.io/badge/个人博客-ffffff?style=for-the-badge&logo=wordpress&logoColor=black"/></a>
   <a href="mailto:savo_shen@qq.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="https://github.com/Savo-Shen"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
   <br/>  
@@ -75,9 +76,12 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=54C2F5)
 
+<!--
 ### 🎮 游戏开发 | Game Develop
 ![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=Unity&logoColor=black)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
+-->
+
 <!--
 ### 🛠️ 开发工具
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,6 +89,7 @@ Here are some ideas to get you started:
 -->
 
 
+<!-- 
 ## 🚀 重点项目 | Featured Projects
 
 ### 🧑‍💻 综合项目开发
@@ -114,12 +119,12 @@ Here are some ideas to get you started:
         <br />School Mail校函，基于Vue + Django的高校年级综合平台
       </a>
     </td>
-<!--     <td align="center">
+    <td align="center">
       <a href="https://github.com/Savo-Shen/cool-car-frontend">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <br />基于React的校园智能巴士控制系统
       </a>
-    </td> -->
+    </td>
     <td align="center">
       <a href="https://github.com/Savo-Shen/Party-Member-Management-System">
         <img src="https://img.shields.io/badge/Vue.Js-696969?style=flat-square&logo=vuedotjs&logoColor=339933"/>
@@ -147,12 +152,14 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+-->
+
 ## 📊 GitHub 统计 | Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savo-Shen&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Savo-Shen&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savo-Shen&layout=compact&langs_count=8&theme=ambient_gradient"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Savo-Shen&layout=compact&langs_count=8&theme=ambient_gradient"/>
 </div>
 
 ---
